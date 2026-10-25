@@ -1,0 +1,11 @@
+**/bin/
+**/obj/
+app/
+.vs/
+*.user
+*.zip
+.minecraft/
+publish-single/
+.env
+.env.*
+!.env.example
